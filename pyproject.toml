@@ -85,7 +85,7 @@ Pygments = "2.15.1"
 pygtrie = "2.5.0"
 pymdown-extensions = "9.11"
 pymongo = "4.3.3"
-pyopenjtalk = "0.3.0"
+pyopenjtalk-prebuilt = "0.3.0"
 pyparsing = "3.0.9"
 pypinyin = "0.48.0"
 python-dateutil = "2.8.2"
@@ -131,6 +131,7 @@ zhconv = "1.4.3"
 revChatGPT = "5.0.0"
 poe-api = "0.3.1"
 EdgeGPT = "0.3.4.2"
+levenshtein = "^0.21.1"
 
 [tool.poetry.dev-dependencies]
 
